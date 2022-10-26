@@ -5,4 +5,4 @@ User extension for the [Azur Lane's EN Community Tier List](https://slaimuda.git
 ## Instructions
 
 - Install [Tampermonkey](http://tampermonkey.net/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-- Install [azurlane-ectl-collection.user.js](https://github.com/davidluzgouveia/azurlane-ectl-collection/raw/master/azurlane-ectl-collection.user.js)
+- Install [azurlane-ectl-collection.user.js](https://github.com/davidluzgouveia/azurlane-ectl-collection/raw/main/azurlane-ectl-collection.user.js)
