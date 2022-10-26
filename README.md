@@ -1,6 +1,6 @@
 # Azur Lane ECTL Collection
 
-User extension for the [Azur Lane's EN Community Tier List](https://slaimuda.github.io/ectl) website. Click on any ship's name to toggle ownership.
+Userscript for the [Azur Lane's EN Community Tier List](https://slaimuda.github.io/ectl) website. Click on any ship's name to toggle ownership.
 
 ## Instructions
 
